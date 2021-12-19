@@ -5,10 +5,9 @@ It's a Sokoban look-alike that I made during Unity course at university. Your go
 * https://latarniakonto.itch.io/sokoban?secret=feyGoCThyVg7r3UvyBltPHUk0SA
 
 # Some screenshots
-![](https://i.imgur.com/Wg88yDT.png)
 
-![](https://i.imgur.com/ycqmtGV.png)
 
-![](https://i.imgur.com/w7UfUIJ.png)
-
-![](https://i.imgur.com/xxwQKs0.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/w7UfUIJ.png)  |  ![](https://i.imgur.com/ycqmtGV.png)
+![](https://i.imgur.com/Wg88yDT.png)  |  ![](https://i.imgur.com/xxwQKs0.png)
