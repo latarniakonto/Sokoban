@@ -4,7 +4,7 @@ It's a Sokoban look-alike that I made during Unity course at university. Your go
 # You can download the game from my itchi.io page
 * https://latarniakonto.itch.io/sokoban?secret=feyGoCThyVg7r3UvyBltPHUk0SA
 
-# Some from the game screenshots
+# Some screenshots from the game
 
 
 |                          |                          |
